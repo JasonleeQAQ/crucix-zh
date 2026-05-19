@@ -205,9 +205,3 @@ npm run fresh-start
 ## 📄 许可证
 
 AGPL-3.0 — 你可以自由使用、修改、分发，但修改后的代码也必须以相同许可证开源。
-
----
-
-<p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/calesthio">calesthio</a> · Powered by 29 OSINT sources · One planet, one terminal</sub>
-</p>
