@@ -93,7 +93,7 @@ Express（1 个依赖）+ 静态 HTML 面板 + 29 个数据源模块
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/calesthio/Crucix.git
+git clone https://github.com/JasonleeQAQ/crucix-zh.git
 cd Crucix
 
 # 2. 安装依赖（只有一个 Express）
@@ -112,7 +112,7 @@ npm run dev
 ## 🐳 Docker 部署
 
 ```bash
-git clone https://github.com/calesthio/Crucix.git
+git clone https://github.com/JasonleeQAQ/crucix-zh.git
 cd Crucix
 cp .env.example .env    # 配置你的 API keys
 docker compose up -d
@@ -201,38 +201,6 @@ node apis/briefing.mjs
 npm run fresh-start
 ```
 
-更多排障见 [Troubleshooting 文档](docs/TROUBLESHOOTING.md)。
-
----
-
-## 🤝 贡献
-
-欢迎 PR！贡献前请先阅读 `CONTRIBUTING.md`，了解新增数据源规范、代码审查流程。
-
-安全漏洞请直接发邮件报告，不要开 Issue。
-
----
-
-## 📮 联系
-
-- **合作/集成**: `celesthioailabs@gmail.com`
-- **Bug/Feature**: 请在 GitHub Issues 中提出
-- **X/Twitter**: [@crucixmonitor](https://x.com/crucixmonitor)
-- **Discord**: [作战室](https://discord.gg/ChVy7SF4)
-
----
-
-## ⭐ Star 历史
-
-<a href="https://www.star-history.com/?repos=calesthio%2FCrucix&type=date&legend=top-left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=calesthio/Crucix&type=date&theme=dark&legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=calesthio/Crucix&type=date&legend=top-left" />
-    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=calesthio/Crucix&type=date&legend=top-left" />
-  </picture>
-</a>
-
----
 
 ## 📄 许可证
 
